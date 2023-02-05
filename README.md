@@ -1,0 +1,1 @@
+# graphana-k8-waste
